@@ -1,0 +1,17 @@
+.form-wrapper {
+  .ant-form-item {
+    padding: 0 10px;
+  }
+  .ant-row {
+    margin-bottom: 10px;
+  }
+  .doctor-select {
+     width: 100%;
+  }
+  .footer-operation-group {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+}
